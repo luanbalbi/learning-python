@@ -1,2 +1,2 @@
 # learning-python
-Just a learning material
+Just a learning content
